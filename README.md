@@ -4,5 +4,3 @@ It's an AI Based Project. This bot is used for automatic reply for college websi
 ### Language
 Python
 
-### Setup
-Import lyb in your system for running the project
